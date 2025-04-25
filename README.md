@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Tarhan</h1>
-<h3 align="center">A passionate second-year Software Engineering student at Çankaya University</h3>
+<h3 align="center">I am second-year Software Engineering student at Çankaya University</h3>
 
 ---
 
